@@ -1,0 +1,46 @@
+14:21:20.100 [main] INFO  testCases.TC001_AccountRegistrationTest - started TC001_AccountRegistrationTest
+14:21:20.260 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+14:21:21.524 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+14:21:21.527 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+14:21:22.626 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:21:25.742 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest ***
+14:37:49.745 [main] INFO  testCases.TC001_AccountRegistrationTest - started TC001_AccountRegistrationTest
+14:37:49.992 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+14:37:50.793 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+14:37:50.797 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+14:37:54.332 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:37:54.365 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:44:52.333 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - started TC001_AccountRegistrationTest
+14:44:52.824 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+14:44:54.216 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+14:44:54.222 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+14:44:58.023 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:44:58.140 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+14:44:59.015 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - started TC001_AccountRegistrationTest
+14:44:59.167 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+14:44:59.836 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+14:44:59.837 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+14:45:02.948 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:45:02.983 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+11:10:43.999 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+11:12:25.827 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+11:13:19.298 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+11:14:12.269 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+11:16:44.598 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+11:19:44.000 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+11:21:52.495 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+11:21:53.302 [main] ERROR testCases.TC002_LoginTest - Test failed
+11:21:53.304 [main] ERROR testCases.TC002_LoginTest - invalid element state
+  (Session info: chrome=148.0.7778.168)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [df3251da361422703a309e6382c8e17b, clearElement {id=f.7D67CB63B66AC1005F453D114CB1996D.d.A6238CB84497CDE7F454264E934B376D.e.973}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.168, chrome: {chromedriverVersion: 148.0.7778.167 (65db666ac2c..., userDataDir: C:\Users\narap\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62580}, goog:processID: 27624, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62580/devtoo..., se:cdpVersion: 148.0.7778.168, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (df3251da361422703a309e6382c8e17b)] -> xpath: //input[@value='Login']]
+Session ID: df3251da361422703a309e6382c8e17b
+11:23:10.164 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+12:32:38.908 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+12:34:50.824 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+12:35:56.769 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+12:40:23.157 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******

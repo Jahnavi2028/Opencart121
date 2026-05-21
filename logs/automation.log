@@ -1,0 +1,22 @@
+12:43:31.591 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+12:44:52.163 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+12:48:05.788 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+13:38:37.517 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+15:15:56.364 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+15:17:22.947 [main] INFO  testCases.TC001_AccountRegistrationTest - started TC001_AccountRegistrationTest
+15:17:23.054 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+15:17:23.771 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:17:23.775 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+15:17:27.095 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:17:27.126 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+15:17:29.170 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+15:18:06.440 [main] INFO  testCases.TC001_AccountRegistrationTest - started TC001_AccountRegistrationTest
+15:18:06.544 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+15:18:06.885 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:18:06.887 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details....
+15:18:07.569 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:18:10.007 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+10:59:11.833 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+11:24:17.748 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+11:39:00.997 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
+11:43:45.634 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ******
